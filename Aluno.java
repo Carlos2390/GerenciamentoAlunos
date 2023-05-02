@@ -6,7 +6,7 @@ package Aluno;
 
 /**
  *
- * @author Carlos Matos RGM: 29622182
+ * @author Carlos Matos
  */
 public class Aluno {
     public String nome;

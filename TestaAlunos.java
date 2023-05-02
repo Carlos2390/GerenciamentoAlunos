@@ -6,7 +6,7 @@ package Aluno;
 
 /**
  *
- * @author autologon
+ * @author Carlos Matos
  */
 public class TestaAlunos {
     public static void main(String[] args) {
